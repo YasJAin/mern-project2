@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500&display=swap');
+body {
+  margin: 0;
+  font-family: 'Epilogue', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(94, 0, 226);
+  color-scheme: light dark;
+  font-weight: bolder;
+  color:rgb(255, 255, 255);
+  font-size: 31px;
+}
+code {
+  font-family: 'Epilogue', sans-serif;
+  font-size: 31px;
+}
+
+h2{
+  background-color: rgb(94, 0, 226);
+  font-size: 31px;
+  color:rgb(255, 255, 255)
+}
+
+h1{
+  font-size: 31px;
+  color:rgb(255, 255, 255)
+}
+
+.header{
+  padding: 10;
+}
+
+.content{
+  min-height: 90vh;
+  font-size: 31px;
+}
+
+.carimg{
+  font-family: 'Epilogue', sans-serif;
+  height: 150px;
+  width: auto;
+  border-radius: 5px;
+
+}
